@@ -11,3 +11,13 @@ To edit the size, position etc. Go to the permanent_crosshair/scripts/hudlayout.
 To disable the default Gmod crosshair, type "crosshair 0" in console.
 
 **If you have any issues, feel free to contact me on Discord "bumble9000"**
+# Example Pictures
+
+![Image](https://github.com/user-attachments/assets/d21dc8f5-4d0d-4719-966c-67ff845c081f)
+
+![Image](https://github.com/user-attachments/assets/0f7d6847-5958-4859-9e5c-bb1b1862aa63)
+
+![Image](https://github.com/user-attachments/assets/77d9b32c-b2cd-492c-9e80-73ba553bfd5b)
+
+**Cover Image**
+![Image](https://github.com/user-attachments/assets/bfb34279-56ae-44b0-b0f1-d63e584f7484)
