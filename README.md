@@ -19,5 +19,8 @@ To disable the default Gmod crosshair, type "crosshair 0" in console.
 
 ![Image](https://github.com/user-attachments/assets/77d9b32c-b2cd-492c-9e80-73ba553bfd5b)
 
+![Image](https://github.com/user-attachments/assets/4eff814b-0182-419c-8eba-6850ecea2fa2)
+
 **Cover Image**
+
 ![Image](https://github.com/user-attachments/assets/bfb34279-56ae-44b0-b0f1-d63e584f7484)
